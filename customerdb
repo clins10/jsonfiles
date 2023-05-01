@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "name": "Viashima Collins",
+      "email": "john.smith@example.com",
+      "phone": "08063298595",
+      "address": "123 Main St, Rayfiled Jos"
+    },
+    {
+      "name": "Eneh Agbo",
+      "email": "Ene@gmail.com",
+      "phone": "08064336578",
+      "address": "456 Elm St, Anglo Jos"
+    }
+  ]
+}
